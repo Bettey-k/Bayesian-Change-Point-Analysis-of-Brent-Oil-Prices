@@ -1,0 +1,9 @@
+date,event,category,expected_impact
+2003-03-20,Iraq War begins,Geopolitical Conflict,Supply risk
+2008-09-15,Global Financial Crisis,Economic Shock,Demand collapse
+2014-11-27,OPEC no production cut,OPEC Policy,Price decline
+2016-11-30,OPEC production cut,OPEC Policy,Price recovery
+2018-05-08,US exits Iran deal,Sanctions,Supply reduction
+2020-03-11,COVID-19 pandemic,Economic Shock,Demand shock
+2020-04-12,OPEC+ historic cuts,OPEC Policy,Market stabilization
+2022-02-24,Russia invades Ukraine,Geopolitical Conflict,Supply disruption
