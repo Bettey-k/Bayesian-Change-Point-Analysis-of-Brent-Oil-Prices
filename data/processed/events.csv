@@ -1,9 +1,16 @@
 date,event,category,expected_impact
-2003-03-20,Iraq War begins,Geopolitical Conflict,Supply risk
+2001-09-11,September 11 attacks,Geopolitical Shock,Supply risk and uncertainty
+2003-03-20,Iraq War begins,Geopolitical Conflict,Supply disruption
 2008-09-15,Global Financial Crisis,Economic Shock,Demand collapse
-2014-11-27,OPEC no production cut,OPEC Policy,Price decline
-2016-11-30,OPEC production cut,OPEC Policy,Price recovery
-2018-05-08,US exits Iran deal,Sanctions,Supply reduction
-2020-03-11,COVID-19 pandemic,Economic Shock,Demand shock
-2020-04-12,OPEC+ historic cuts,OPEC Policy,Market stabilization
+2010-04-20,Deepwater Horizon oil spill,Supply Shock,Short-term volatility
+2011-02-15,Arab Spring unrest,Geopolitical Conflict,Regional instability
+2014-06-01,US shale oil expansion,Supply Shock,Oversupply pressure
+2014-11-27,OPEC decides not to cut production,OPEC Policy,Price decline
+2016-11-30,OPEC production cut agreement,OPEC Policy,Price recovery
+2018-05-08,US exits Iran nuclear deal,Sanctions,Reduced supply expectations
+2019-09-14,Saudi Aramco facility attack,Geopolitical Conflict,Temporary supply shock
+2020-03-11,COVID-19 pandemic declared,Economic Shock,Demand collapse
+2020-04-12,OPEC+ historic production cuts,OPEC Policy,Market stabilization
+2021-10-01,Global energy supply crunch,Economic Shock,Price surge
 2022-02-24,Russia invades Ukraine,Geopolitical Conflict,Supply disruption
+2022-12-05,EU oil price cap on Russia,Sanctions,Long-term supply uncertainty
